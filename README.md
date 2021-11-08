@@ -17,4 +17,4 @@ If you got this far, I recommend checking out my
 <a href="https://www.linkedin.com/in/20samharris/">LinkedIn</a> and 
 <a href="https://samharris.tech/resume.html">Resume</a>
 
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=SamHarris2020" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamHarris2020&include_all_commits=true&count_private=true&show_icons=true&hide_title=true"></img>
