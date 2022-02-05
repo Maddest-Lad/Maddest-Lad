@@ -12,9 +12,4 @@ it's always something fun.
 But I'm not afraid to get my hands dirty either, outside of programming
 I enjoy woodworking, cooking and all sorts of hastily assembled prototypes like my current electric longboard and custom bass guitar I built over the summer.
 
-If you got this far, I recommend checking out my 
-<a href="https://samharris.tech/">Website</a> and
-<a href="https://www.linkedin.com/in/20samharris/">LinkedIn</a>. 
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamHarris2020&include_all_commits=true&count_private=true&show_icons=true&hide_title=true"></img>
