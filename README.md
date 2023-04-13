@@ -1,5 +1,5 @@
 <H2 align="center">
-  Hi, I'm Sam Harris
+  Hi, I'm Sam
 </H2>
 
 <b>I Love to Code.</b>
